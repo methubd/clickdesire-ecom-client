@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.showTop {
+    z-index: 1;
+}
+
+.showDown {
+    z-index: 2;
+}
